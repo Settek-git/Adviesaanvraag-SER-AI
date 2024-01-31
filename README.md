@@ -1,0 +1,12 @@
+- Create GPTplus custom gpt
+- cp instructions
+- Create GPT assistent with instructions and documents (Enable only file retrieval - model gpt-3.5-turbo-1106)
+- Create public git repo
+- Clone files from https://github.com/Settek-git/glyph
+- Change titel of app
+- Go to https://share.streamlit.io/deploy
+- Deploy repo
+- Put in the following secrets: 
+  - select python 3.11 
+  - OPENAI_API_KEY = ""
+  - ASSISTENT_ID = ""
